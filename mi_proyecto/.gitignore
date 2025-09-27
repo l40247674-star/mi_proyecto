@@ -1,0 +1,19 @@
+# Ignorar bases, caches, keys, reportes pesados y entornos
+*.db
+*.sqlite
+*.log
+*.key
+*.pem
+*.enc
+pass*
+*.json
+*.csv
+__pycache__/
+venv/
+venvs/
+wfuzz-venv/
+node_modules/
+*.tar.gz
+*.zip
+*.bak
+.ssh/
